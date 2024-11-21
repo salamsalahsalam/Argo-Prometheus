@@ -1,6 +1,7 @@
 # Prometheus with Helm and ArgoCD on Kubernetes
 
 This repository documents deploying Prometheus using Helm, customizing configurations, and integrating with ArgoCD for GitOps-based management.
+![image](https://github.com/user-attachments/assets/753da12c-3e3a-4636-bd77-20637c01b1b3)
 
 ---
 
